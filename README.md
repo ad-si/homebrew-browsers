@@ -6,6 +6,13 @@ It enables you to easily install older versions for testing purposes.
 All of the casks load the 'en_US' language version of the browsers.
 
 
+## Installation
+
+In order to add the casks to you brew cask installation
+simply tap the repo with the command `$ brew tap adius/browsers`.
+Afterwards you install the browsers with `$ brew cask install firefox35`
+
+
 ## Chromium
 
 You can look up the base number of a specific Chromium version on https://omahaproxy.appspot.com.
